@@ -1,6 +1,6 @@
 # 📚  Landing Page Submission
 Submission: Tugas Akhir Membuat Website - Belajar Dasar Pemrograman Web
-#### [Sertifikat Kompetensi](https://www.dicoding.com/certificates/07Z6VN16JXQR)
+#### [Sertifikat Kompetensi Kelas "Belajar Dasar Pemrograman Dasar"](https://www.dicoding.com/certificates/07Z6VN16JXQR)
 
 ## 🚀 Deskripsi Tugas Akhir
 Proyek ini merupakan tugas akhir dari kelas "Belajar Dasar Pemrograman Dasar" di Dicoding Indonesia. Tujuan dari proyek ini adalah untuk mengimplementasikan pengetahuan dasar dalam pengembangan web, termasuk HTML, CSS, dan konsep layouting menggunakan flexbox.
