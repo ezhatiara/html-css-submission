@@ -5,7 +5,7 @@ Submission: Tugas Akhir Membuat Website - Belajar Dasar Pemrograman Web
 ## 🚀 Deskripsi Tugas Akhir
 Proyek ini merupakan tugas akhir dari kelas "Belajar Dasar Pemrograman Dasar" di Dicoding Indonesia. Tujuan dari proyek ini adalah untuk mengimplementasikan pengetahuan dasar dalam pengembangan web, termasuk HTML, CSS, dan konsep layouting menggunakan flexbox.
 
-### Komponen Utama
+### 📦 Komponen Utama
 
 Proyek ini terdiri dari empat komponen utama yang mencakup dasar-dasar pengembangan web:
 
