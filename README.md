@@ -1,8 +1,8 @@
-# 📚 Learning Web Development Basics
+# Exploring Web Development: My Journey as a Beginner 🚀😊
 
 Hello there! 👋 I'm thrilled to introduce you to my GitHub repository, where I've documented my exciting journey through the "Learning Web Development Basics" course by Dicoding Indonesia. This course is an excellent starting point, especially for beginners like myself, who are curious and enthusiastic about delving into the fascinating world of web development.
 
-## About the Course
+## 📚 About the Course
 
 In this course, you'll dive headfirst into the captivating realm of web development. It's the perfect opportunity for enthusiastic beginners like me to embark on this exciting journey 🌐🚀. The course provides a solid foundation by covering the fundamental elements of web development, such as HTML and CSS. These skills are absolutely crucial for anyone who wants to kickstart their adventure in web development.
 
